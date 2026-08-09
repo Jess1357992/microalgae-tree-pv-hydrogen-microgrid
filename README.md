@@ -102,7 +102,18 @@ Daily aggregation of the hourly file.
 
 ---
 
+## Licence
+
+Released under the Creative Commons Attribution 4.0 International licence (CC BY 4.0).
+See `LICENSE`.
+
 ## Funding
 
 Supported by the National Science and Technology Council of Taiwan under contracts
 NSTC 115-2221-E-006-214, NSTC 114-2221-E-006-193 and NSTC 114-2627-M-006-006.
+
+## Contact
+
+Ting-Chia Ou — outc@gs.ncku.edu.tw
+Program on Smart and Sustainable Manufacturing, Academy of Innovative Semiconductor and
+Sustainable Manufacturing, National Cheng Kung University, Tainan 70101, Taiwan.
