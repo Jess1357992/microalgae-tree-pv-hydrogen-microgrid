@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use these datasets, please cite both the article and this record."
+title: "Simulated datasets for a microalgae artificial tree in a photovoltaic-hydrogen microgrid"
+abstract: >-
+  Simulated carbon price series and cultivation environment data supporting an AI-driven
+  energy management framework for the carbon-neutral operation of a microalgae artificial
+  tree in a photovoltaic-hydrogen microgrid. Comprises a raw daily carbon price series, the
+  engineered feature table and the one-step-ahead supervised table derived from it, together
+  with hourly and daily simulated cultivation environment records over a 60-day horizon.
+type: dataset
+version: "1.0.0"
+license: CC-BY-4.0
+keywords:
+  - microalgae cultivation
+  - photovoltaic-hydrogen microgrid
+  - carbon price forecasting
+  - energy management
+  - carbon neutrality
+authors:
+  - family-names: Ou
+    given-names: Ting-Chia
+    affiliation: "National Cheng Kung University"
+    email: outc@gs.ncku.edu.tw
+  - family-names: Luo
+    given-names: Sheng-Yu
+    affiliation: "National Cheng Kung University"
+preferred-citation:
+  type: article
+  title: >-
+    Carbon-Neutral Operation of a Microalgae Artificial Tree in a Photovoltaic-Hydrogen
+    Microgrid: An AI-Driven Energy Management Framework
+  year: 2026
+  authors:
+    - family-names: Ou
+      given-names: Ting-Chia
+    - family-names: Luo
+      given-names: Sheng-Yu
