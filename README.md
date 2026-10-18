@@ -110,7 +110,7 @@ See `LICENSE`.
 ## Funding
 
 Supported by the National Science and Technology Council of Taiwan under contracts
-NSTC 115-2221-E-006-214, NSTC 114-2221-E-006-193 and NSTC 114-2627-M-006-006.
+NSTC 115-2221-E-006-214, NSTC 114-2221-E-006-193 and NSTC 115-2627-M-006-004.
 
 ## Contact
 
